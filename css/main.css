@@ -424,6 +424,11 @@ a.navbar-brand {
 	background-repeat:no-repeat;
 }
 
+#main-carousel .centered {
+	background-size:cover;
+  background: no-repeat center center fixed;
+}
+
 .carousel-caption {
   color: #fff;
   font-size: 15px;
